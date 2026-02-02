@@ -1,10 +1,10 @@
 # CT-300: Computational Methods in Nuclear Chemical Engineering 
 
-[![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](http://nbviewer.jupyter.org/github/dpploy/chen-3170/tree/master/notebooks)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpploy/chen-3170/master)
+[![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](http://nbviewer.jupyter.org/github/dpploy/ct-300/tree/master/notebooks)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpploy/ct-300/master)
 
-![Website](https://img.shields.io/website/https/github.com/dpploy/chen-3170.svg)
-[![Size](https://img.shields.io/github/repo-size/dpploy/chen-3170.svg?label=size&style=flat)](https://github.com/dpploy/chen-3170)
+![Website](https://img.shields.io/website/https/github.com/dpploy/ct-300.svg)
+[![Size](https://img.shields.io/github/repo-size/dpploy/ct-300.svg?label=size&style=flat)](https://github.com/dpploy/ct-300)
 
    + [Cortix Tech](https://cortix.tech/), Training & Certification
 
@@ -14,7 +14,7 @@ The goal of this training course is to present to professionals of (nuclear) che
 
 This course is equivalent to a 4-credit class over fifteen weeks, it consists of Jupyter notebooks used for lectures (numbered 01 to 21) and laboratory work (labwork-01 to 14) for professionals to practice their skills in computer-aided problem solving (see `notebooks/`). The assumption is that professionals have little computer pragramming experience and have taken core courses in chemical engineering up to the second semester of the junior year. Therefore this course is a mix of computational methods and computer programming (in python language) aimed at helping attendees in the remaining portion of their curriculum course work.
 
-*Past versions of this course are available in this repository as [releases](https://github.com/dpploy/chen-3170/releases) including labwork and exams.*
+* *Past versions of this course are available in this repository as [releases](https://github.com/dpploy/ct-300/releases) including labwork and exams.*
 
 Feedback and collaboration to improve this course are welcome through GitHub `pull requests` and `issues` or direct email.
 
