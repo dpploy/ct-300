@@ -2,11 +2,11 @@
 
 [![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](http://nbviewer.jupyter.org/github/dpploy/ct-300/tree/master/notebooks)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpploy/ct-300/master)
-
 ![Website](https://img.shields.io/website/https/github.com/dpploy/ct-300.svg)
 [![Size](https://img.shields.io/github/repo-size/dpploy/ct-300.svg?label=size&style=flat)](https://github.com/dpploy/ct-300)
 
    + [Cortix Tech](https://cortix.tech/), Training & Certification
+   + Licensed under the Cortix Tech Courseware & Sample Code License (CT-CSL) v1.0 — see LICENSE.
 
 ![](notebooks/images/ls-fourier.png)
 

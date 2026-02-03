@@ -1,64 +1,106 @@
-CORTIX TECH TRAINING MATERIALS LICENSE (PROPRIETARY)
+Cortix Tech Courseware & Sample Code License (CT-CSL) v1.0
+=================================================================
 
-Copyright (c) 2024–2025 Cortix Tech.
+Copyright (c) 2026 Cortix Tech
 All rights reserved.
 
-This repository contains training/course materials (the “Materials”), which may
-include source code, Jupyter notebooks, text, figures, problems, solutions,
-and other educational content.
+This repository (the “Repository”) contains educational materials and sample
+software provided by Cortix Tech (“Licensor”). The Repository is made available
+publicly for learning, evaluation, and demonstration purposes under the terms
+below. If you have a separate written agreement with Licensor, that agreement
+controls to the extent it conflicts with this license.
 
-1. NO PUBLIC LICENSE GRANT
-Except for the limited permission in Section 2, Cortix Tech does not grant you
-any license or rights to the Materials. You may not copy, reproduce, modify,
-translate, create derivative works, distribute, publicly display, publicly
-perform, publish, sublicense, sell, rent, lease, lend, or otherwise exploit
-the Materials (in whole or in part) without Cortix Tech’s prior written
-permission.
+1. Definitions
+--------------
+“Materials” means all content in this Repository, including but not limited to
+source code, Jupyter notebooks, text, figures, images, diagrams, slides,
+datasets, build scripts, configuration files, and documentation.
 
-2. LIMITED PERMISSION FOR PERSONAL REVIEW
-You may view the Materials and download a copy solely for your own personal,
-non-commercial evaluation and learning purposes, provided that you:
-  (a) keep all copyright, attribution, and other notices intact; and
-  (b) do not share, repost, mirror, publish, or distribute the Materials to
-      any other person or entity.
+“Non-Commercial” means not primarily intended for or directed toward
+commercial advantage or monetary compensation.
 
-3. CUSTOMER / ENTERPRISE USE
-If you have a separate written agreement with Cortix Tech (for example, a paid
-training, certification, or enterprise agreement), your use of the Materials
-is governed by that agreement. In the event of any conflict, the written
-agreement controls.
+2. License Grant (Limited, Non-Exclusive)
+-----------------------------------------
+Subject to full compliance with this license, Licensor grants you a limited,
+non-exclusive, non-transferable, non-sublicensable, revocable license to:
 
-4. THIRD-PARTY MATERIALS
-Some files or portions of the Materials may be subject to third-party
-licenses, attribution requirements, or other terms (for example, content that
-is separately labeled, contains its own license header, or is accompanied by a
-NOTICE/attribution). Those third-party terms govern that material.
+(a) View and download the Materials; and
+(b) Run and modify the Materials solely for your own Non-Commercial,
+    personal learning, evaluation, or internal research/teaching preparation.
 
-5. LEGACY GPL NOTICE (PRIOR VERSIONS)
-Earlier versions of this repository were distributed under the GNU General
-Public License, version 3 (GPL-3.0). Recipients who obtained copies under the
-GPL retain the rights granted under the GPL for those copies. Nothing in this
-license is intended to retroactively revoke or restrict rights that were
-previously granted under the GPL.
+3. Restrictions (What You May NOT Do)
+-------------------------------------
+Unless expressly permitted by Licensor in writing, you may NOT:
 
-Accordingly, this proprietary license applies only to the Materials as made
-available by Cortix Tech under this LICENSE file after its adoption date,
-and/or to any Materials that are explicitly re-licensed by Cortix Tech where
-Cortix Tech holds the necessary rights to do so.
+(a) Use the Materials for any Commercial purpose;
+(b) Distribute, publish, sublicense, sell, rent, lease, lend, or otherwise
+    make available the Materials (or any modified version) to any third party;
+(c) Host the Materials (or substantial portions) on a public or private server
+    for others to access (including as a course handout, training repository,
+    internal portal, or public website);
+(d) Create or distribute derivative works based on the Materials, except as
+    allowed in Section 2(b) for private use;
+(e) Remove, alter, or obscure any copyright, trademark, or proprietary notice;
+(f) Use the name “Cortix Tech” or any Licensor trademarks to endorse or promote
+    products derived from the Materials without prior written permission.
 
-6. DISCLAIMER
-THE MATERIALS ARE PROVIDED “AS IS” AND “AS AVAILABLE”, WITHOUT WARRANTY OF ANY
-KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND
-NON-INFRINGEMENT. YOU ASSUME ALL RISK ARISING FROM USE OF THE MATERIALS.
+For clarity: posting any portion of the Materials (including notebooks, code,
+figures, or solutions) to public forums, pastebins, or public repositories is
+distribution and is not permitted without written permission.
 
-7. LIMITATION OF LIABILITY
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL CORTIX TECH BE LIABLE
-FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR
-ANY LOSS OF PROFITS, REVENUE, DATA, OR GOODWILL, ARISING OUT OF OR RELATED TO
-THE MATERIALS OR THIS LICENSE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
-DAMAGES.
+4. Ownership
+------------
+All right, title, and interest in and to the Materials remain with Licensor and
+its licensors. No rights are granted except as expressly stated in this license.
+This license does not grant you any patent rights or trademark rights.
 
-8. CONTACT
-For permissions or licensing inquiries, contact Cortix Tech:
-https://cortix.tech/
+5. Attribution (When Citing)
+----------------------------
+You may quote short excerpts of text (e.g., a few lines) for review or academic
+citation purposes provided that you include attribution to:
+“Cortix Tech” and the Repository name/URL, and do not include answer keys,
+complete solutions, or substantial portions of the Materials.
+
+6. Contributions (If Accepted)
+------------------------------
+If you submit a pull request, patch, issue attachment, or other contribution
+(“Contribution”) to the Repository, you grant Licensor a perpetual, worldwide,
+royalty-free, irrevocable license to use, reproduce, modify, distribute, and
+sublicense your Contribution as part of the Materials under any terms Licensor
+chooses. You represent that you have the right to grant this license.
+
+(If you do not want to accept Contributions, remove Section 6.)
+
+7. Termination
+--------------
+This license is effective until terminated. It terminates automatically if you
+violate any term. Upon termination, you must stop using the Materials and
+delete all copies in your possession or control.
+
+8. Disclaimer of Warranty
+-------------------------
+THE MATERIALS ARE PROVIDED “AS IS” AND “AS AVAILABLE,” WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, OR THAT
+THE MATERIALS ARE ERROR-FREE.
+
+9. Limitation of Liability
+--------------------------
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, LICENSOR SHALL NOT BE LIABLE FOR ANY
+INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS
+OF PROFITS, DATA, OR GOODWILL, ARISING OUT OF OR RELATED TO THE MATERIALS OR
+THIS LICENSE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. LICENSOR’S
+TOTAL LIABILITY SHALL NOT EXCEED USD $100.
+
+10. Governing Law
+-----------------
+This license is governed by the laws of Commonwealth of Massachusetts, USA, excluding
+its conflict of law rules. Venue and jurisdiction shall lie in the courts located in
+the Commonwealth of Massachusetts, USA, unless otherwise required by law.
+
+11. Commercial Licensing
+------------------------
+Commercial use, redistribution, hosting, or use in paid training/courses
+requires a separate commercial license from Licensor. Contact: info@cortix.tech
+
+END OF TERMS
