@@ -32,5 +32,10 @@ Thanks in advance for inputs to improve this course.\
 Regards,\
 Dr. Valmor F. de Almeida, [Cortix Tech](https://cortix.tech)
 
+## Usage
+   + Download
+   + `uv sync`
+   + `uv run jupyter notebook`
+
 ## History
 This training material was developed and used for many years by Dr. Valmor F. de Almeida while teaching as an associate professor of nuclear chemical engineering at UMass Lowell USA. This is now offered as training and certification at [Cortix Tech](https://cortix.tech).
