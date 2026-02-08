@@ -38,4 +38,7 @@ Dr. Valmor F. de Almeida, [Cortix Tech](https://cortix.tech)
    + `uv run jupyter notebook`
 
 ## History
-This training material was developed and used for many years by Dr. Valmor F. de Almeida while teaching as an associate professor of nuclear chemical engineering at UMass Lowell USA. This is now offered as training and certification at [Cortix Tech](https://cortix.tech).
+This training material was developed and used for many years (2018 Spring and Fall, 2020 Spring and Fall, 2021 Spring and Fall, 2022 Spring, 2023 Spring, 2024 Spring) by Dr. Valmor
+F. de Almeida while teaching as an associate professor of nuclear chemical engineering at
+UMass Lowell USA. This is now offered as training and certification at
+[Cortix Tech](https://cortix.tech).
